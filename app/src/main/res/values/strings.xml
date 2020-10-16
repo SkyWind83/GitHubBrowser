@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHubBrowserRe</string>
+    <string name="github_username">GitHub Username</string>
+</resources>
