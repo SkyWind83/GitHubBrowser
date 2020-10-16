@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitHubBrowserRe</string>
     <string name="github_username">GitHub Username</string>
+    <string name="error_git_user">Username is empty</string>
 </resources>
